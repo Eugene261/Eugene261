@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://eugeneopoku.com/api/github/banner" width="850" alt="Eugene Opoku" />
+  <img src="https://704-labz.vercel.app/api/github/banner" width="850" alt="Eugene Opoku" />
 </p>
 
 ### Founder & Full-Stack Engineer — Accra, Ghana
