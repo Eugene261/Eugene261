@@ -47,6 +47,19 @@ React · Next.js · TypeScript · Node.js
 
 ---
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eugene261&theme=github-dark-blue&hide_border=true&background=0A0A0B&ring=818CF8&fire=818CF8&currStreakLabel=E4E4E7&sideLabels=A1A1AA&dates=52525B&currStreakNum=F4F4F5&sideNums=F4F4F5" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eugene261&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=818CF8&text_color=A1A1AA&icon_color=818CF8&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene261&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=818CF8&text_color=A1A1AA&langs_count=8" width="40%" alt="Top Languages" />
+</p>
+
+---
+
 ## Stack
 
 **Languages**
