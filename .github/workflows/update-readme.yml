@@ -15,4 +15,4 @@ jobs:
       - name: Pull in RSS posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://eugeneopoku.com/rss"
+          feed_list: "https://704-labz.vercel.app/rss"
